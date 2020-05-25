@@ -18,6 +18,7 @@ for deployment in production without changing code. " - Rajat Monga
 '''
 from __future__ import absolute_import, division, print_function
 
+#import numpy as np
 import numpy as np
 import tensorflow as tf
 import tensorflow.contrib.eager as tfe ####
